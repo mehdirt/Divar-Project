@@ -1,6 +1,5 @@
 # Divar Project
 
-```markdown
 # Divar Project
 
 ## Project Description
@@ -48,4 +47,3 @@ The `divar_project` repository is divided into 5 main sections:
 
 ## License
 This project is released under the MIT License.
-```
