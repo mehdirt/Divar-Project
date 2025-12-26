@@ -7,10 +7,10 @@
 This project analyzes data from the **Divar** platform, including Exploratory Data Analysis (EDA), statistical analysis, recommender system, and price/rent prediction. The main goal is to use machine learning techniques to better understand the data and provide predictive models. 🚀
 
 ## 👥 Contributors
-- [mahdi](https://github.com/mehdirt) 👨‍💻
-- [ramin](https://github.com/raminBadri) 👨‍💻
-- [mahdiyar](https://github.com/mahdiyar) 👨‍💻
-- [haniye](https://github.com/haniye) 👩‍💻
+- [Mahdi](https://github.com/mehdirt) 👨‍💻
+- [Ramin](https://github.com/raminBadri) 👨‍💻
+- [Mahdiyar](https://github.com/mahdiyarhashemi) 👨‍💻
+- [Haniye](https://github.com/haniye) 👩‍💻
 
 ## 📂 Dataset
 The dataset used in this project is not available in the repository due to its large size (approximately **1 million records** 📈). It consists of **64 columns**, including:
