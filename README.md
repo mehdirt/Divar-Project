@@ -26,7 +26,7 @@ The `divar_project` repository is divided into 5 main sections:
 4. **prediction_price** 💰 and **prediction_rent** 🏠: Predictive models for purchase price and rent. These two sections are in a shared folder.
 
 ## 🛠️ Technologies and Libraries Used
-- **Data Processing**: pandas 📊, numpy 🔢
+- **Data Processing**: pandas 📊, numpy 🔢, scipy 🔍
 - **Visualization**: matplotlib 📈, seaborn 🎨, plotly 📊, geopandas 🗺️
 - **Machine Learning**: sklearn 🤖, scipy 🔬
 - **Algorithms and Models**: k-means 📍, DBSCAN 🔄, LightGBM 🌟, Random Forest Regressor 🌲
