@@ -10,7 +10,6 @@ This project analyzes data from the **Divar** platform, including Exploratory Da
 - [Mahdi](https://github.com/mehdirt) 👨‍💻
 - [Ramin](https://github.com/raminBadri) 👨‍💻
 - [Mahdiyar](https://github.com/mahdiyarhashemi) 👨‍💻
-- [Haniye](https://github.com/haniye) 👩‍💻
 
 ## 📂 Dataset
 The dataset used in this project is not available in the repository due to its large size (approximately **1 million records** 📈). It consists of **64 columns**, including:
