@@ -4,7 +4,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 ## 🌟 Project Description
-This project analyzes data from the **Divar** platform, including Exploratory Data Analysis (EDA), statistical analysis, recommender system, and price/rent prediction. The main goal is to use machine learning techniques to better understand the data and provide predictive models. 🚀
+This project analyzes data from the **Divar** platform (an advertising company in Iran), including Exploratory Data Analysis (EDA), statistical analysis, recommender system, and price/rent prediction. The main goal is to use machine learning techniques to better understand the data and provide predictive models. 🚀
 
 ## 👥 Contributors
 - [Mahdi](https://github.com/mehdirt) 👨‍💻
@@ -16,7 +16,7 @@ The dataset used in this project is not available in the repository due to its l
 - 44 categorical columns 🏷️
 
 ## 🗂️ Project Structure
-The `divar_project` repository is divided into 5 main sections:
+The `divar_project` repository is divided into 5 main sections in `src/`:
 
 1. **EDA** (Exploratory Data Analysis) 🔍: Exploratory analysis of data to understand distributions, relationships, and patterns.
 2. **Statistical_analysis** 📊: Advanced statistical analyses such as statistical tests and statistical modeling.
